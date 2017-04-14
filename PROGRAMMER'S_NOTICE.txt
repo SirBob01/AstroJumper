@@ -1,0 +1,20 @@
+When importing modules, arrange according to importance...
+
+## Importance hiearchy
+- System modules
+- Pygame
+- PiE modules
+	- Physics
+	- Entities
+	- Vectors
+	- AI
+	- Color
+- Constants
+- Resources
+- Engine
+- State
+- States
+- GProfile
+- Jukebox
+- GUI
+- World
